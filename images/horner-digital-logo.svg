@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="781.2687" height="700.6510" viewBox="263.7530 141.9936 781.2687 700.6510">
+<title>Horner Digital logo</title>
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,1024)" d="M0 1024H1280V0H0Z"/>
+</clipPath>
+</defs>
+<g inkscape:groupmode="layer" inkscape:label="Layer 1">
+<path transform="matrix(1,0,0,-1,0,1024)" d="M695.162 686.56H727.00399V377.87599H695.162V513.901H334.675V536.326H695.162Z" fill="#2e6be6"/>
+<path transform="matrix(1,0,0,-1,0,1024)" d="M289.959 855.806H334.67503V209.70606H289.959Z" fill="#232428"/>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,587.6707,174.28559)" stroke-width="32.584" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#232428" d="M0 0C234.753 0 425.059-142.388 425.059-318.034 425.059-493.679 234.753-636.067 0-636.067"/>
+<path transform="matrix(1,0,0,-1,772.92,418.86079)" d="M0 0 10.282-16.175 17.093-11.822 6.83 4.322 35.183 6.544-28.114 52.197-14.348-25.115Z" fill="#232428"/>
+<path transform="matrix(1,0,0,-1,695.1616,325.97053)" stroke-width="23.614" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#2e6be6" d="M0 0C110.879 0 216.943-72.315 216.943-163.839 216.943-255.363 110.879-331.436 0-331.436"/>
+<path transform="matrix(1,0,0,-1,0,1024)" d="M629.691 229.408H587.67098V834.59207H629.691Z" fill="#232428"/>
+<path transform="matrix(1,0,0,-1,0,1024)" d="M334.675 811.81H290.181V855.80599H334.675Z" fill="#2e6be6"/>
+<path transform="matrix(1,0,0,-1,0,1024)" d="M323.749 819.279H279.753V863.27499H323.749Z" fill="#232428"/>
+<path transform="matrix(1,0,0,-1,0,1024)" d="M334.564 207.535H290.07V251.531H334.564Z" fill="#2e6be6"/>
+<path transform="matrix(1,0,0,-1,0,1024)" d="M345.747 199.877H301.751V243.873H345.747Z" fill="#232428"/>
+</g>
+</g>
+</svg>
